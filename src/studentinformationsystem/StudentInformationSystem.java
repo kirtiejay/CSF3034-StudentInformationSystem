@@ -16,6 +16,7 @@ public class StudentInformationSystem {
     public static void main(String[] args) {
         System.out.println("Name : Kirtie Jayabalan");
         System.out.println("Student ID : S72411");
+        ResultMessage.showResult();
     }
     
 }
